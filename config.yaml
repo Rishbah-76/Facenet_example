@@ -1,0 +1,8 @@
+# It contains all the configs required in the project
+
+path:
+  directory: photos
+  save_info: data_saved.pt
+
+img_path:
+  path: ./test_images/1.jpg
